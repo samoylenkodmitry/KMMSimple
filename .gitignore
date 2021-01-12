@@ -14,9 +14,5 @@
 .cxx
 local.properties
 /shared/build
-/.idea/vcs.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/sonarlint/issuestore/index.pb
-/.idea/checkstyle-idea.xml
-/.idea/.name
-/.idea/misc.xml
+/.idea
+/androidApp/build
